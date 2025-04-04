@@ -1,0 +1,14 @@
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.deps.json
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.runtimeconfig.json
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.dll
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.pdb
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.AssemblyInfoInputs.cache
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.AssemblyInfo.cs
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.dll
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/refint/LeetCode.dll
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.pdb
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.genruntimeconfig.cache
+/Users/andrescamperos/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/ref/LeetCode.dll
